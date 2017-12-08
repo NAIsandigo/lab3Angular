@@ -1,0 +1,21 @@
+{
+  "name": "lab3app",
+  "version": "6.11.3",
+  "description": "npm v3.10.10 angular tutorial lab3",
+  "main": "index.js",
+  "scripts": {
+    "test": "angular app hello world"
+  },
+  "repository": {
+    "type": "git",
+    "url": "lab3cweb1111"
+  },
+  "keywords": [
+    "cweb1111",
+    "angular",
+    "app",
+    "tutorial"
+  ],
+  "author": "Ian Sandigo",
+  "license": "ISC"
+}
